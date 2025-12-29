@@ -14,7 +14,6 @@
 const p3kzz = {
     location: "Madura, Indonesia 🇮🇩",
     education: "S1 Informatika | Universitas KH. Bahaudin Mudhary",
-    currentSemester: "5 (Menuju Lulus 🎓)",
     role: "Fullstack & Backend Developer",
     specialization: ["Laravel Development", "Flutter Development"],
     currentlyLearning: "Advanced Flutter & Laravel Best Practices",
